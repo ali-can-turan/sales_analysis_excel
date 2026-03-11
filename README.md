@@ -71,3 +71,6 @@ o	Cons: Requires more intensive cross-training (Multi-Skilling).
 •	Cleaned Dataset: The "Ready-to-Analyze" data after full processing.
 
 •	Pivot Sheets: Where analyses are carried out to extract analysis insights and to reach BI options.
+
+***** Project Roadmap & Tracking
+You can track the development stages and completed tasks of this project on https://github.com/users/ali-can-turan/projects/1
